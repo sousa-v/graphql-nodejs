@@ -8,3 +8,6 @@
 
 ### simple-server
 * Schema first approach
+
+### server
+* Code first 
